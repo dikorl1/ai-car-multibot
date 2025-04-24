@@ -1,0 +1,3 @@
+Refiner → Retriever (FAISS+JSON) → Planner
+↓
+Flask API → Make → Google Sheets → Telegram
