@@ -1,5 +1,6 @@
-flask
-faiss-cpu
-langchain
 openai
-tqdm
+faiss-cpu
+flask
+langchain
+python-dotenv
+requests
